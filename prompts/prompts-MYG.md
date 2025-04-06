@@ -1,5 +1,4 @@
-# 1 prompt
-a partir del codigo base, actuando como un desarrollador experto y teniendo en cuenta el Diseño Guiado por el Dominio (DDD), los principios SOLID/DRY
+a partir del codigo base en la carpeta 'backend' , actuando como un desarrollador experto y teniendo en cuenta el Diseño Guiado por el Dominio (DDD), los principios SOLID/DRY
 ayudame a crear los siguientes endpoints que nos permitirán manipular la lista de candidatos de una aplicación en una interfaz tipo kanban.
 
 # 1
